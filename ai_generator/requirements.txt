@@ -1,0 +1,7 @@
+fastapi
+langchain
+langchain_ollama
+sentence_transformer
+supabase
+pydantic
+websocket
